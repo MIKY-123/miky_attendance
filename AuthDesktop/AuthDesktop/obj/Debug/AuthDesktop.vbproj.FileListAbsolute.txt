@@ -51,6 +51,9 @@ C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\A
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AuthDesktop.exe
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AuthDesktop.pdb
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AuthDesktop.xml
+C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.dll
+C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.Video.dll
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\Emgu.CV.Bitmap.dll
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\Emgu.CV.dll
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\Emgu.CV.Platform.NetFramework.dll
@@ -65,6 +68,9 @@ C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\S
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\System.Text.Json.dll
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.xml
+C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.Video.xml
+C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.Video.DirectShow.xml
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\Emgu.CV.xml
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\Emgu.CV.Bitmap.xml
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\Emgu.CV.Platform.NetFramework.xml
@@ -95,9 +101,3 @@ C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\obj\Debug\A
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\obj\Debug\AuthDesktop.exe
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\obj\Debug\AuthDesktop.xml
 C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\obj\Debug\AuthDesktop.pdb
-C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.dll
-C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.Video.DirectShow.dll
-C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.Video.dll
-C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.xml
-C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.Video.xml
-C:\Users\HP\Documents\GitHub\miky_attendance\AuthDesktop\AuthDesktop\bin\Debug\AForge.Video.DirectShow.xml

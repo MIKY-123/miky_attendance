@@ -34,6 +34,7 @@ Partial Class cameraLoadForm
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Padding = New System.Windows.Forms.Padding(10)
         Me.PictureBox1.Size = New System.Drawing.Size(433, 423)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
